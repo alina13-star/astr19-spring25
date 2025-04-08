@@ -1,0 +1,32 @@
+Microsoft Windows [Version 10.0.26100.3476]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Alina\OneDrive\Desktop\project folder>dir
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 503D-0F6F
+
+ Directory of C:\Users\Alina\OneDrive\Desktop\project folder
+
+04/08/2025  10:20 AM    <DIR>          .
+04/07/2025  04:57 PM    <DIR>          ..
+04/08/2025  10:20 AM                54 Hello-world.py
+04/07/2025  05:42 PM             1,126 Journal entry 1 HW 1.txt
+04/07/2025  06:12 PM    <DIR>          New folder
+04/07/2025  05:51 PM                34 README.md
+               3 File(s)          1,214 bytes
+               3 Dir(s)  151,857,348,608 bytes free
+
+C:\Users\Alina\OneDrive\Desktop\project folder>python Hello-world.py
+Enter your name : Alina
+Hello Alina
+
+C:\Users\Alina\OneDrive\Desktop\project folder>python3
+Python 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("Alina Sanchez")
+Alina Sanchez
+>>> print("My favorite movie is The Nightmare before Christmas, especially \during holloween")
+My favorite movie is The Nightmare before Christmas, especially during holloween
+>>> print("If I had to pick a top food it would be between sushi and tacos.\")
+If I had to pick a top food it would be between sushi and tacos.
+>>>
